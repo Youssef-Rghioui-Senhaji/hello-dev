@@ -1,6 +1,5 @@
 #Ce qu'il faut faire
 *Ajouter des fichiers
 *Modifier des fichiers
-Ajouter des personnes 
-voir l'historique
-ne pas avoir peur
+supprimer comito
+ajout utilisateurs
